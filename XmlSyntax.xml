@@ -1,0 +1,22 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<root>
+    <t:kabl xmlns:t="http://www.w3.org/2001/XMLSchema">
+        <t:tr>
+            <t:td>Hello yogesh joga</t:td>
+            <t:td>this is the xml learning session</t:td>
+            <t:td>for spring</t:td>
+        </t:tr>
+    </t:kabl>
+
+    <student:table xmlns:student="http://www.w3.org/2001/XMLSchema">
+        <student.tr>
+            <student.td>Roll Number : 101</student.td>
+            <student.td>Name is yogesh joga</student.td>
+            <student.td>Phone Number is 9110566354</student.td>
+            <student.td>What's app</student.td>
+            <student.td>linkedIN account is yogesh-joga-</student.td>
+            <student.td>github yogeshjoga</student.td>
+            <student.td>Gmail: jogayogeshedu@gmail.com</student.td>
+        </student.tr>
+    </student:table>
+</root>
