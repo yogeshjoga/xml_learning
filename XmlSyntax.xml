@@ -19,4 +19,15 @@
             <student.td>Gmail: jogayogeshedu@gmail.com</student.td>
         </student.tr>
     </student:table>
+
+    <user:table1 xmlns:user="http://www.example.com" >
+        <user:input>
+            <user:output>hello yogesh joga</user:output>
+            <user:output>this is the billa </user:output>
+            <user:output>we need to buy new arms</user:output>
+            <user:output>how much cost can plz</user:output>
+            <user:output>i am waiting your responce</user:output>
+        </user:input>
+
+    </user:table1>
 </root>
